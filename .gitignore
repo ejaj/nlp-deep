@@ -238,3 +238,5 @@ cleanteeh.sh
 
 
 # End of https://www.toptal.com/developers/gitignore/api/python,django
+data/GoogleNews-vectors-negative300.bin.gz
+data/GoogleNews-vectors-negative300.bin
