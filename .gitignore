@@ -244,3 +244,5 @@ text-classification/model.h5
 text-classification/model.keras
 text-classification/ngram-model.keras
 text-classification/vocab.txt
+language-modeling/model.h5
+language-modeling/mapping.pkl
