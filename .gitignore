@@ -251,3 +251,8 @@ phishing_dataset.csv
 language-modeling/nlm_model.keras
 language-modeling/nlm_tokenizer.pkl
 image-captioning/features.pkl
+machine-translation/NMT_model.keras
+machine-translation/english-german-both.pkl
+machine-translation/english-german-test.pkl
+machine-translation/english-german-train.pkl
+machine-translation/english-german.pkl
