@@ -257,3 +257,5 @@ machine-translation/english-german-both.pkl
 machine-translation/english-german-test.pkl
 machine-translation/english-german-train.pkl
 machine-translation/english-german.pkl
+texts
+our_vocab
