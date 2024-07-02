@@ -259,3 +259,4 @@ machine-translation/english-german-train.pkl
 machine-translation/english-german.pkl
 texts
 our_vocab
+checkpoint.weights.h5
