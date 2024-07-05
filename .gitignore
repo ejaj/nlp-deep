@@ -260,3 +260,4 @@ machine-translation/english-german.pkl
 texts
 our_vocab
 checkpoint.weights.h5
+kazi_ngram_model.pkl
